@@ -1,0 +1,16 @@
+{
+  "name": "wandering-wisdom",
+  "version": "1.0.0",
+  "description": "A simple project to show my skills and knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tej-patel09",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.66.1"
+  }
+}
