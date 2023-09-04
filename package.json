@@ -12,5 +12,13 @@
     "gulp": "^4.0.2",
     "gulp-sass": "^5.1.0",
     "sass": "^1.66.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tej-patel09/wandering-wisdom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tej-patel09/wandering-wisdom/issues"
+  },
+  "homepage": "https://github.com/tej-patel09/wandering-wisdom#readme"
 }

@@ -1,0 +1,15 @@
+{
+    "name": "vendor/wandering-wisdom",
+    "description": "A simple project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "tej-patel09",
+            "email": "tej.patel309dar@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.15",
+        "google/apiclient": "^2.15"
+    }
+}
