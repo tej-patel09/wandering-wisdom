@@ -1,0 +1,3 @@
+https://www.appsealing.com/code-obfuscation/
+
+https://www.php.net/manual/en/function.php-strip-whitespace.php  -> user note

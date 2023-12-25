@@ -1,9 +1,8 @@
-### Sep 4, 2023
->Commit 1
+### Sep 5, 2023
 Delete css directory 
 This directory is not needed
 
->Commit 2
+### Sep 4, 2023
 Google API and MongoDB connection set up
 
 ### Sep 3, 2023
